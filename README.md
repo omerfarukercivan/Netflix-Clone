@@ -11,9 +11,6 @@ Application showing Trending Movies, Trending TV, Popular Movies, Upcoming Movie
   <img src="https://github.com/omerfarukercivan/Netflix-Clone/blob/main/ss2.png" width="350" height="650">
   <br>
   <br>
-  <br>
-  <br>
-  <br>
   <img src="https://github.com/omerfarukercivan/Netflix-Clone/blob/main/ss3.png" width="350" height="650">
   &nbsp
   &nbsp
